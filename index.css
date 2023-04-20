@@ -102,6 +102,10 @@ body{
     margin-left: auto;
     margin-right: auto;
 }
+
+.coffee img{
+    width: 100%;
+}
 .map{
     max-width: 700px;
     background-color: blue;
@@ -154,3 +158,8 @@ body{
     margin-bottom: 40px;
     font-size: 30px;
 }
+
+
+/* git add .
+git commit -m "changed thesized of coffe img"
+git push */
